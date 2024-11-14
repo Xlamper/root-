@@ -1,0 +1,9 @@
+Update News In GhostXTools 
+Update From GhostXTools In Version 9.1.0
+- New Command Namely News, This Command Is Only To See Updates About Version 9.0.0
+- New Methods Namely Pidoras, Xyn, Cookie, Hold, And Nuke
+- Rebuilt For Command Monitor
+- There is a feature in a Methods menu, namely above the Methods menu or Total Layer7
+- Layer4 Not Yet Released
+
+From Xlamper
